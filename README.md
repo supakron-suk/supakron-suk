@@ -8,16 +8,30 @@
 <a href="https://www.linkedin.com/in/supakron-sukphithak-5460a5342/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+
 <a href="https://www.facebook.com/supakron.sukpitak">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
 </a>
 
 ---
 
 ### 🛠 Skills:
 <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/>
 </a>
+
+<a href="https://www.javascript.com/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Javascript" width="40" height="40"/>
+</a>
+
+<a href="https://html.com/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/>
+</a>
+
 <!--
 **supakron-suk/supakron-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
