@@ -6,7 +6,7 @@
 
 ### 🌐 About me:
 <a href="https://www.linkedin.com/in/supakron-sukphithak-5460a5342/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://www.facebook.com/supakron.sukpitak">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LinkedIn" width="40" height="40"/>
