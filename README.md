@@ -1,5 +1,6 @@
 ## Hello! 👋I'm Supakron Sukphithak (Kong)
-*🛠💻 software engineer and interested in software, digital, computers
+#   🛠💻 Software engineer and interested in software, digital, computers
+# About me:
 <!--
 **supakron-suk/supakron-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
