@@ -1,4 +1,5 @@
-## Hello! 👋 My name is Supakron Sukphithak (Kong)
+## Hello! 👋I'm Supakron Sukphithak (Kong)
+* New software engineer
 <!--
 **supakron-suk/supakron-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
