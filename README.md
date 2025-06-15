@@ -1,11 +1,11 @@
-### Hello! 👋 I'm Supakron Sukphithak (Kong)
+# Hello! 👋 I'm Supakron Sukphithak (Kong)
 
 - 🛠💻 Software engineer and interested in software, digital, computers
 
 ---
 
-## 🌐 About me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakron-sukphithak-5460a5342/)
+### 🌐 About me:
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.linkedin.com/in/supakron-sukphithak-5460a5342/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/supakron.sukpitak)
 
 <!--
