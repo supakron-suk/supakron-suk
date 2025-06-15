@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 About me:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.linkedin.com/in/supakron-sukphithak-5460a5342/)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/supakron-sukphithak-5460a5342/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/supakron.sukpitak)
 
 <!--
