@@ -1,6 +1,13 @@
-### Hello! 👋I'm Supakron Sukphithak (Kong)
+### Hello! 👋 I'm Supakron Sukphithak (Kong)
+
 - 🛠💻 Software engineer and interested in software, digital, computers
-- About me:
+
+---
+
+## 🌐 About me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakron-sukphithak-5460a5342/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/supakron.sukpitak)
+
 <!--
 **supakron-suk/supakron-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
