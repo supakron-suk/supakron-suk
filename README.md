@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://www.virtualbox.org/">
-  <img src="https://en.wikipedia.org/wiki/VirtualBox#/media/File:VirtualBox_2024_Logo.svg" alt="css" width="40" height="40"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/VirtualBox-Logo-768x432.png" alt="css" width="40" height="40"/>
 </a>
 
 <a href="https://ubuntu.com/">
