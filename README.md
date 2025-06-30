@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Skills:
+### 🛠 Skills and Others:
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/>
 </a>
@@ -43,6 +43,14 @@
 
 <a href="https://www.linux.com/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg" alt="css" width="40" height="40"/>
+</a>
+
+<a href="https://www.vmware.com/">
+  <img src="https://i.namu.wiki/i/dhdULtNaOAHvSzfuTtbiWUHuWDeiyYEzYVKf7ACLusD-cNnF9xfmlWNd7Bnnu8mdUwE8n3xNjGECJhKTt7Vfr_umQmM4AXVzCes2zJF5h_fps8oFqBfA3KUBeZu7QSzyzuvnbI4j2NbjewSwyYTedmNCgDHIU7UkcqBzze7XwOM.svg" alt="css" width="40" height="40"/>
+</a>
+
+<a href="https://www.virtualbox.org/">
+  <img src="https://en.wikipedia.org/wiki/VirtualBox#/media/File:VirtualBox_2024_Logo.svg" alt="css" width="40" height="40"/>
 </a>
 
 <a href="https://ubuntu.com/">
