@@ -45,6 +45,14 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg" alt="css" width="40" height="40"/>
 </a>
 
+<a href="https://ubuntu.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="css" width="40" height="40"/>
+</a>
+
+<a href="https://www.centos.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" alt="css" width="40" height="40"/>
+</a>
+
 <a href="https://nodejs.org/en">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="css" width="40" height="40"/>
 </a>
